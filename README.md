@@ -9,7 +9,8 @@ Unbricking TeclastX98 files for BP4 & Flashrom
 Author: Cosimo Orlando.<br>
 Blog: http://creativityslashdesign.tk/
 <br>
-All files about the unbrick of Teclast X98 3G tablet with the patch of flashrom software.
+All files about the unbrick of Teclast X98 3G tablet with the patch of flashrom software.<br>
+Complete log file https://goo.gl/QmHPS9 .
 <br>
 <br>
 All info on my blog.
